@@ -9,16 +9,21 @@
       "username": "rey",
       "password": "reywkwk",
       "nomor": "6285194258440"
-    }, 
-    { 
-      "username": "figo", 
-      "password": "figzy", 
-      "nomor": "6283872586900"
-    }, 
+    },
     {
-      "username": "fall", 
-      "password": "fall", 
+      "username": "figo",
+      "password": "figzy",
+      "nomor": "6283872586900"
+    },
+    {
+      "username": "fall",
+      "password": "fall",
       "nomor": "6285714342478"
+    },
+    {
+      "username": "dyynoo",
+      "password": "dyyno",
+      "nomor": "6282241410422"
     }
   ]
 }
